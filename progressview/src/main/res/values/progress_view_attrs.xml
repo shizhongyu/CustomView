@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressView">
+        <!--背景颜色-->
+        <attr name="bgColor" format="color"/>
+        <attr name="fgColor" format="color"/>
+        <!--View 高度-->
+        <attr name="height" format="dimension"/>
+        <!--View 宽度-->
+        <attr name="weight" format="dimension"/>
+        <!--字体大小-->
+        <attr name="fontSize" format="dimension"/>
+        <!--字体颜色-->
+        <attr name="fontColor" format="color"/>
+    </declare-styleable>
+</resources>
